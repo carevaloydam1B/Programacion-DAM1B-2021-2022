@@ -1,0 +1,7 @@
+
+PROJECT TITLE: Car
+PURPOSE OF PROJECT: represent Car objects for use in studying Java classes
+VERSION or DATE: 8/31/2005
+HOW TO START THIS PROJECT:
+AUTHORS: Tim Wahls
+USER INSTRUCTIONS:
